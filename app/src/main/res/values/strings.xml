@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Instagram Feed</string>
+    <string name="posts_count">9</string>
+    <string name="posts">Posts</string>
+    <string name="followers_count">9999</string>
+    <string name="followers">Followers</string>
+    <string name="following_count">99</string>
+    <string name="following">Following</string>
+    <string name="profile_name">My Profil Name</string>
+    <string name="bio">I Am A Simple Man</string>
+    <string name="edit_profile">Edit Profile</string>
+</resources>
