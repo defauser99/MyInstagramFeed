@@ -6,7 +6,7 @@
     <string name="followers">Followers</string>
     <string name="following_count">99</string>
     <string name="following">Following</string>
-    <string name="profile_name">My Profil Name</string>
+    <string name="profile_name">My Profile Name</string>
     <string name="bio">I Am A Simple Man</string>
     <string name="edit_profile">Edit Profile</string>
 </resources>
